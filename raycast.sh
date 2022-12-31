@@ -7,4 +7,4 @@ ln -s ~/.dotfiles/RAYCAST/Scripts ~/Documents/Scripts
 cp -a ~/.dotfiles/RAYCAST/Import/. ~/Desktop
 
 # Creates screenshot location for CleanShotX & ss Script
-mkdir mkdir ~/Documents/Screenshots;
+mkdir ~/Documents/Screenshots;
